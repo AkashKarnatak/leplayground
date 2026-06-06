@@ -1,0 +1,11 @@
+[project]
+name = "leplayground"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "lerobot>=0.5.1",
+    "h5py>=3.11",
+    "opencv-python>=4.9",
+]
